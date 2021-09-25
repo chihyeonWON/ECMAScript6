@@ -11,3 +11,5 @@ var person = {
         console.log("Hello!" +this.name);
     }
 };
+
+//these are almost same
